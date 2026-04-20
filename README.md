@@ -1,6 +1,6 @@
 # ai-learning-projects
 
-My personal learning journey and projects in **Computer Science**, **Artificial Intelligence**, **prompt engineering**, and related tools.
+My personal learning journey and projects in **Computer Science**, **Artificial Intelligence**, "prompt engineering", and related tools.
 
 ### Current Focus
 - BSc (Hons) Computer Science at University of London (Performance Based Admission route)
@@ -14,7 +14,7 @@ My personal learning journey and projects in **Computer Science**, **Artificial 
 
 ### Technologies & Tools
 - Python, C++
-- **prompt** **engineering** **(Google Professional Certificate)**
+- **prompt ** **engineering** **(Google Professional Certificate)**
 - AI model behavior analysis
 - Git & GitHub
 
