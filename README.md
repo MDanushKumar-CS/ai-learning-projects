@@ -1,2 +1,24 @@
 # ai-learning-projects
-My learning journey and personal projects in Computer Science, AI, prompt engineering, and advanced tools. Currently preparing for Cambridge A Levels and building towards MIT MicroMasters and Harvard courses.
+
+My personal learning journey and projects in *Computer Science, **Artificial Intelligence*, prompt engineering, and related tools.
+
+### Current Focus
+- BSc (Hons) Computer Science at University of London (Performance Based Admission route)
+- Preparing for Cambridge International A Levels in Mathematics, Physics, and Computer Science
+- Building strong foundations for future studies in MIT MicroMasters and Harvard courses
+
+### Goals
+- Develop practical AI and software projects
+- Improve truth-seeking, logical reasoning, and clear communication skills
+- Create high-quality repositories that demonstrate consistent learning and growth
+
+### Technologies & Tools
+- Python, C++
+- Prompt Engineering (Google Professional Certificate)
+- AI model behavior analysis
+- Git & GitHub
+
+---
+
+Last updated: April 2026  
+Feel free to explore and connect!
