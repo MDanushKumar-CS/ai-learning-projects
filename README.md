@@ -14,7 +14,7 @@ My personal learning journey and projects in **Computer Science**, **Artificial 
 
 ### Technologies & Tools
 - Python, C++
-- **prompt** engineering (Google Professional Certificate)
+- **prompt** **engineering** **(Google Professional Certificate)**
 - AI model behavior analysis
 - Git & GitHub
 
