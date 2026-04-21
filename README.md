@@ -22,6 +22,7 @@ My personal learning journey and projects in *Computer Science, **Artificial Int
 - README.md — Main introduction
 - about.md — About me
 - hello.py — First simple Python script
+- cambridge-notes.md — Cambridge A Levels notes
 
 ---
 
