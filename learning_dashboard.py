@@ -20,7 +20,7 @@ print(f"Date: {datetime.date.today()}\n")
 print("Log your learning hours today:\n")
 
 for topic in topics:
-    hours = float(input(f"How many hours did you study {topic} today? "))
+    hours = float(input(f""Hours studied in {topic} today? "))
     topics[topic] += hours
 
 # Show summary
